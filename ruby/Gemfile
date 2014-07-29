@@ -1,0 +1,4 @@
+# install packages
+gem 'json'
+gem 'mongo_mapper'
+gem 'sinatra/base'

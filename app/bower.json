@@ -1,0 +1,9 @@
+{
+	"name" : "tate-draw",
+	"dependencies" : {
+		"angular" : "latest",
+		"angular-cookies" : "latest",
+		"angular-route" : "latest",
+		"underscore" : "latest"
+	}
+}
